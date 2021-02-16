@@ -1,5 +1,6 @@
 www.facebook.com
 sg.yahoo.com
+bing.com
 https://ipinfo.io/account/login
 https://cve.mitre.org/
 https://www.youtube.com/watch?v=QV62YRpIeUA
